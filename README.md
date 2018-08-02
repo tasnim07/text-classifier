@@ -13,8 +13,8 @@ A text classifier build using Tensorflow backend.
 * pip install -r requirements.pip
 
 ## Data
-* MNIST Data. can get from tensorflow tutorial. `Link will be added soon.`
-* IMDB movie review data. `Link will be added soon.`
+* MNIST Data. `tar -xvfz mnist.tar.gz && mv mnist MNIST_data`
+* IMDB movie review data. `tar -xvfz aclImdb.tar.gz`
 * CNN Data for classification of cats and dogs images. `Link will be added soon.`
 
 ## Dependencies
