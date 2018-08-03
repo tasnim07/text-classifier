@@ -18,5 +18,6 @@ A text classifier build using Tensorflow backend.
 * CNN Data for classification of cats and dogs images. `Link will be added soon.`
 
 ## Dependencies
+* Python 3.6
 * Tensorflow
 * Keras
